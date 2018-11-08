@@ -9,6 +9,8 @@ public class Ejercicio {
 		grafo.coloreoSecuencial();
 		grafo.coloreoWelshPowell();
 		grafo.coloreoMatula();
+		
+		System.out.println("probando");
 
 	}
 
